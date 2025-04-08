@@ -16,7 +16,7 @@ git clone https://github.com/yourusername/DownloadsFolderManager.git
 ```  
 
 ### 2️⃣ Run the executable:  
-  Click on the auto executable file inside the dist folder
+  🖱️Click on the auto executable file inside the dist folder
 
 ## 🌟 Why Use This?  
 A cluttered **Downloads** folder slows you down. With this script, you get a **clean, organized space** where everything is where it belongs—effortlessly!  
