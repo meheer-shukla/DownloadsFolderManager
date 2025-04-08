@@ -5,7 +5,11 @@ Built with **Python**, this smart and efficient script automatically organizes y
 
 ## 🚀 Features  
 ✅ **Auto-Sorting** – Files are instantly moved to designated folders (Documents, Images, Videos, Archives, etc.)  
+
+
 ✅ **Custom Running** – Runs with a single exe file 
+
+
 ✅ **Lightweight & Fast** – Runs in the background without slowing down your system  
 
 ## 🛠️ Installation  
